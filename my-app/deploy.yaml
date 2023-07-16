@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: shatten/nginx:v.0.1.1
+          image: shatten/nginx:v.0.1.2
           ports:
             - containerPort: 80
